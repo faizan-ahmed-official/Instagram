@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/app-icon.png</file>
+        <file>icons/chevron-down.svg</file>
+        <file>icons/comments.svg</file>
+        <file>icons/insta-header-text.png</file>
+        <file>icons/likes.svg</file>
+        <file>icons/music.svg</file>
+        <file>icons/plus.svg</file>
+        <file>icons/plus-black.svg</file>
+        <file>icons/repost.svg</file>
+        <file>icons/save.svg</file>
+        <file>icons/send.svg</file>
+	    <file>pictures/abdulrehman.jpeg</file>
+	    <file>pictures/afaq.jpeg</file>
+	    <file>pictures/anfal.jpeg</file>
+	    <file>pictures/faizan.jpeg</file>
+	    <file>pictures/kashif.jpeg</file>
+	    <file>pictures/omer.jpeg</file>
+        <file>icons/nav-send.svg</file>
+        <file>icons/profile.svg</file>
+        <file>icons/search.svg</file>
+        <file>icons/reels.svg</file>
+        <file>icons/home.svg</file>
+        <file>icons/instagram.ico</file>
+    </qresource>
+</RCC>
