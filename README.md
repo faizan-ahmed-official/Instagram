@@ -13,5 +13,11 @@ Instagram frontend include:
 2. Qt6
 2. CMake 3.16
 
+## How To Contribute 
+1. Fork the repository to your GitHub account.
+2. Clone your fork and make the desired changes or add new features.
+3. Submit a Pull Request (PR) so I can review and approve your changes for the frontend.
+
 ## How To Build
-If you want to add somenew features then you can fork and then clone and do changes and then i will allow the changes in the frontend.
+1. Clone the repository to your local machine.
+2. Build and run.
